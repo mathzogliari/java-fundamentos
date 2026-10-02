@@ -6,6 +6,7 @@ Repositório de estudos de **Java e Programação Orientada a Objetos (POO)**, p
 - Resolver **30 exercícios** de fundamentos de Java
 - Construir uma **aplicação de console com CRUD** em memória
 - Prazo: **30/11/2026**
+- Status: iniciado em outubro/2026 — primeiros exercícios concluídos
 
 ## 📂 Organização
 - `exercicios/` — exercícios resolvidos, um arquivo por tema
